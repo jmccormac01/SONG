@@ -1,5 +1,4 @@
-# Scripts to working on SONG data
-
+# Scripts for working on SONG data
 
 
 # Contributors
